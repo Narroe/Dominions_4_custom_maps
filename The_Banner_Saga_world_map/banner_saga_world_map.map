@@ -1,0 +1,385 @@
+-- 
+-- Map file for Dominions 4
+-- 
+-- Illwinter Game Design
+-- www.illwinter.com
+-- 
+
+-- Title and image file
+#dom2title The Banner Saga world map
+#imagefile banner_saga_world_map.tga
+#domversion 350
+#description "Enter the world of the Banner Saga. With mostly accurate names for provinces, and some filler."
+
+-- Province names/terrains
+#terrain 1 0
+#landname 2 "Blackwater Deep"
+#terrain 2 0
+#landname 3 "The Rotting Roots"
+#terrain 3 0
+#terrain 4 0
+#terrain 5 0
+#landname 6 "Graywater stretch"
+#terrain 6 0
+#landname 7 "Foggy Shard"
+#terrain 7 0
+#landname 8 "Gruin Sea"
+#terrain 8 0
+#landname 9 "The Stankhar Threads"
+#terrain 9 0
+#landname 10 "Voe"
+#terrain 10 0
+#terrain 11 0
+#terrain 12 0
+#landname 13 "Wyrm's Tail"
+#terrain 13 0
+#terrain 14 0
+#terrain 15 0
+#landname 16 "Mire Fallows"
+#terrain 16 0
+#terrain 17 0
+#landname 18 "Swartbog"
+#terrain 18 0
+#landname 19 "Fog Island"
+#terrain 19 0
+#terrain 20 0
+#terrain 21 0
+#landname 22 "Brackish Sea"
+#terrain 22 0
+#terrain 23 0
+#landname 24 "Wyrm's Tear Isle"
+#terrain 24 0
+#landname 25 "Graywater Sea"
+#terrain 25 0
+#landname 26 "Ollerholm"
+#terrain 26 0
+#terrain 27 0
+#terrain 28 0
+#terrain 29 0
+#terrain 30 0
+#terrain 31 0
+#landname 32 "Brackish Bay"
+#terrain 32 0
+#terrain 33 0
+#terrain 34 0
+#terrain 35 0
+#landname 36 "Crooks Hollow"
+#terrain 36 0
+#landname 37 "Ironpeat Wash"
+#terrain 37 0
+#terrain 38 0
+#terrain 39 0
+#terrain 40 0
+#terrain 41 0
+#landname 42 "Bolunskr"
+#terrain 42 0
+#terrain 43 0
+#terrain 44 0
+#terrain 45 0
+#terrain 46 2052
+#terrain 47 0
+#terrain 48 0
+#terrain 49 0
+#terrain 50 0
+#terrain 51 0
+#terrain 52 0
+#terrain 53 0
+#terrain 54 0
+#terrain 55 0
+#terrain 56 0
+#terrain 57 0
+#terrain 58 0
+#terrain 59 0
+#terrain 60 0
+#terrain 61 0
+#terrain 62 0
+#terrain 63 0
+#landname 64 "Ocean of Despair"
+#terrain 64 2052
+#terrain 65 0
+#terrain 66 0
+#terrain 67 0
+#terrain 68 0
+#terrain 69 2052
+#terrain 70 0
+#landname 71 "Three Islands"
+#terrain 71 0
+#terrain 72 0
+#terrain 73 0
+#terrain 74 0
+#terrain 75 0
+#terrain 76 0
+#terrain 77 0
+#terrain 78 0
+#terrain 79 0
+#landname 80 "Spirit Water"
+#terrain 80 2052
+#terrain 81 0
+#terrain 82 0
+#terrain 83 0
+#terrain 84 0
+#terrain 85 0
+#terrain 86 0
+#terrain 87 0
+#terrain 88 0
+#terrain 89 0
+#terrain 90 0
+#terrain 91 0
+#terrain 92 0
+#terrain 93 2052
+#terrain 94 0
+#terrain 95 0
+#landname 96 "Eastern Waters"
+#terrain 96 2052
+#terrain 97 0
+#terrain 98 0
+#terrain 99 0
+#terrain 100 0
+#terrain 101 0
+#terrain 102 0
+#terrain 103 0
+#terrain 104 0
+#terrain 105 0
+#terrain 106 0
+#terrain 107 0
+#terrain 108 0
+#terrain 109 0
+#terrain 110 0
+#terrain 111 0
+#terrain 112 0
+#terrain 113 0
+#terrain 114 0
+#terrain 115 0
+#terrain 116 2052
+#terrain 117 0
+#terrain 118 0
+#terrain 119 0
+#landname 120 "Ravenhead"
+#terrain 120 0
+#terrain 121 0
+#terrain 122 0
+#landname 123 "The Spear"
+#terrain 123 0
+#terrain 124 0
+#landname 125 "Blotsbalkr"
+#terrain 125 0
+#landname 126 "Grofheim"
+#terrain 126 0
+#terrain 127 4
+#terrain 128 4194320
+#terrain 129 0
+#terrain 130 0
+#landname 131 "Vetur Sea South"
+#terrain 131 2052
+#terrain 132 0
+#terrain 133 4194320
+#terrain 134 0
+#terrain 135 2052
+#landname 136 "Frostquoy"
+#terrain 136 4
+#terrain 137 4
+#landname 138 "Valkajokull"
+#terrain 138 0
+#terrain 139 0
+#landname 140 "Mornforth Taing"
+#terrain 140 0
+#landname 141 "Weaver's Eye"
+#terrain 141 4
+#landname 142 "The Anvil"
+#terrain 142 0
+#landname 143 "Nordskalr"
+#terrain 143 0
+#terrain 144 2052
+#landname 145 "Endless Ocean"
+#terrain 145 2052
+#landname 146 "Stem"
+#terrain 146 0
+#landname 147 "Fraksberg"
+#terrain 147 0
+#landname 148 "The Hammer"
+#terrain 148 0
+#landname 149 "Lonely Point"
+#terrain 149 0
+#landname 150 "Harrows Mouth"
+#terrain 150 2052
+#landname 151 "Vetur Sea North"
+#terrain 151 2052
+#landname 152 "Cletberg"
+#terrain 152 0
+#landname 153 "Wordan"
+#terrain 153 0
+#landname 154 "North Constellations"
+#terrain 154 2052
+#landname 155 "Strait of Harrows"
+#terrain 155 0
+#landname 156 "Dundr's Beard"
+#terrain 156 0
+#landname 157 "Outer Waters"
+#terrain 157 2052
+#landname 158 "Edge Water"
+#terrain 158 2052
+#landname 159 "Northern Cut"
+#terrain 159 2052
+#landname 160 "God's Horn"
+#terrain 160 0
+#landname 161 "Cold Stretch"
+#terrain 161 0
+#landname 162 "Frigid Claw"
+#terrain 162 0
+
+-- Province neighbours
+#neighbour 2 7
+#neighbour 3 18
+#neighbour 3 16
+#neighbour 3 9
+#neighbour 5 18
+#neighbour 6 9
+#neighbour 6 13
+#neighbour 6 8
+#neighbour 7 8
+#neighbour 7 19
+#neighbour 7 22
+#neighbour 8 13
+#neighbour 8 19
+#neighbour 9 16
+#neighbour 9 10
+#neighbour 10 13
+#neighbour 10 25
+#neighbour 12 14
+#neighbour 16 18
+#neighbour 18 26
+#neighbour 18 36
+#neighbour 24 25
+#neighbour 25 37
+#neighbour 25 39
+#neighbour 26 36
+#neighbour 33 45
+#neighbour 36 42
+#neighbour 36 50
+#neighbour 37 42
+#neighbour 37 39
+#neighbour 38 50
+#neighbour 39 51
+#neighbour 42 59
+#neighbour 42 50
+#neighbour 46 69
+#neighbour 50 59
+#neighbour 50 55
+#neighbour 51 57
+#neighbour 52 62
+#neighbour 57 59
+#neighbour 59 67
+#neighbour 69 93
+#neighbour 75 84
+#neighbour 80 96
+#neighbour 81 126
+#neighbour 84 91
+#neighbour 84 95
+#neighbour 84 88
+#neighbour 85 91
+#neighbour 85 96
+#neighbour 87 126
+#neighbour 88 95
+#neighbour 91 105
+#neighbour 91 101
+#neighbour 93 116
+#neighbour 94 126
+#neighbour 95 101
+#neighbour 95 100
+#neighbour 96 131
+#neighbour 96 105
+#neighbour 101 107
+#neighbour 104 126
+#neighbour 107 115
+#neighbour 108 126
+#neighbour 109 118
+#neighbour 109 126
+#neighbour 110 115
+#neighbour 110 114
+#neighbour 110 122
+#neighbour 110 113
+#neighbour 111 126
+#neighbour 111 121
+#neighbour 113 126
+#neighbour 113 122
+#neighbour 114 115
+#neighbour 117 126
+#neighbour 117 121
+#neighbour 118 119
+#neighbour 118 126
+#neighbour 118 121
+#neighbour 121 126
+#neighbour 121 129
+#neighbour 122 126
+#neighbour 122 128
+#neighbour 123 136
+#neighbour 123 131
+#neighbour 124 129
+#neighbour 124 126
+#neighbour 125 136
+#neighbour 125 128
+#neighbourspec 125 128 1
+#neighbour 128 133
+#neighbour 128 134
+#neighbourspec 128 134 1
+#neighbour 130 132
+#neighbour 130 138
+#neighbour 131 151
+#neighbour 132 133
+#neighbourspec 132 133 1
+#neighbour 133 134
+#neighbour 133 139
+#neighbourspec 133 139 1
+#neighbour 134 139
+#neighbour 134 136
+#neighbour 136 140
+#neighbour 136 139
+#neighbour 136 141
+#neighbourspec 136 141 2
+#neighbour 138 147
+#neighbour 138 143
+#neighbour 138 142
+#neighbour 139 140
+#neighbourspec 139 140 2
+#neighbour 141 148
+#neighbour 141 146
+#neighbour 141 142
+#neighbour 142 143
+#neighbour 142 148
+#neighbour 143 147
+#neighbour 143 148
+#neighbour 144 154
+#neighbour 145 152
+#neighbour 145 153
+#neighbour 145 157
+#neighbour 146 148
+#neighbour 146 151
+#neighbour 146 159
+#neighbour 147 150
+#neighbour 147 155
+#neighbour 148 156
+#neighbour 148 155
+#neighbour 149 154
+#neighbour 149 150
+#neighbour 150 154
+#neighbour 150 155
+#neighbour 150 161
+#neighbour 151 162
+#neighbour 151 159
+#neighbour 151 160
+#neighbour 152 157
+#neighbour 152 158
+#neighbour 153 158
+#neighbour 153 154
+#neighbour 154 158
+#neighbour 154 161
+#neighbour 155 156
+#neighbour 156 160
+#neighbour 156 161
+#neighbour 157 158
+#neighbour 159 160
+#neighbour 159 162
+
+-- Special per province commands
+
+--
