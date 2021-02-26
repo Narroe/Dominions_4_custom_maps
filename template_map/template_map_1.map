@@ -1,0 +1,105 @@
+-- 
+-- Map file for Dominions 4
+-- 
+-- Illwinter Game Design
+-- www.illwinter.com
+-- 
+
+-- Title and image file
+#dom2title Testing the waters.
+#imagefile test_map_1.tga
+#domversion 350
+#maptextcol 1.00 1.00 1.00 1.00
+#description "Can you survive and overcome, in this poorly created world?"
+
+-- Province names/terrains
+#landname 1 "Ocean of Plenty"
+#terrain 1 3076
+#landname 2 "Dragon Port"
+#terrain 2 256
+#landname 3 "Serenity"
+#terrain 3 16780292
+#landname 4 "Assad"
+#terrain 4 33554432
+#landname 5 "The Cavern Realm"
+#terrain 5 37752834
+#landname 6 "Redbud Grove"
+#terrain 6 16778368
+#landname 7 "Lucky Lake"
+#terrain 7 1028
+#landname 8 "Lake Vastness"
+#terrain 8 33554436
+#landname 9 "Silver Fangs"
+#terrain 9 20972545
+#landname 10 "Amul"
+#terrain 10 16778241
+#landname 11 "Salt Plains"
+#terrain 11 16777793
+#landname 12 "Devil's Pond"
+#terrain 12 33555460
+#landname 13 "Old Giant Woods"
+#terrain 13 128
+#landname 14 "Desert of Visions"
+#terrain 14 577
+#landname 15 "The Womb"
+#terrain 15 4198400
+#landname 16 "Oune"
+#terrain 16 33555456
+#landname 17 "Sea of Silence"
+#terrain 17 33556484
+#landname 18 "Kratas"
+#terrain 18 37748737
+#landname 19 "Karion"
+#terrain 19 1025
+#landname 20 "Vongar"
+#terrain 20 33555457
+
+-- Province neighbours
+#neighbour 1 4
+#neighbour 1 3
+#neighbour 1 8
+#neighbour 2 5
+#neighbour 2 3
+#neighbour 3 5
+#neighbour 3 7
+#neighbour 3 6
+#neighbour 3 4
+#neighbour 4 6
+#neighbour 5 7
+#neighbour 5 9
+#neighbourspec 5 9 1
+#neighbour 6 8
+#neighbour 6 7
+#neighbour 7 11
+#neighbour 7 12
+#neighbour 7 17
+#neighbour 7 9
+#neighbour 8 10
+#neighbour 8 13
+#neighbour 8 12
+#neighbour 9 17
+#neighbour 10 13
+#neighbour 11 12
+#neighbour 11 14
+#neighbour 11 17
+#neighbour 12 14
+#neighbour 12 15
+#neighbour 12 19
+#neighbour 12 17
+#neighbour 13 15
+#neighbourspec 13 15 2
+#neighbour 13 16
+#neighbour 14 17
+#neighbour 15 18
+#neighbour 15 19
+#neighbour 16 18
+#neighbourspec 16 18 2
+#neighbour 16 20
+#neighbourspec 16 20 2
+#neighbour 18 20
+#neighbour 18 19
+#neighbourspec 18 19 1
+
+-- Special per province commands
+
+--
