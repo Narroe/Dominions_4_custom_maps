@@ -14,17 +14,17 @@
 -- Province names/terrains
 #terrain 1 0
 #landname 2 "Blackwater Deep"
-#terrain 2 0
+#terrain 2 2052
 #landname 3 "The Rotting Roots"
 #terrain 3 0
 #terrain 4 0
 #terrain 5 0
 #landname 6 "Graywater stretch"
-#terrain 6 0
+#terrain 6 4
 #landname 7 "Foggy Shard"
 #terrain 7 0
 #landname 8 "Gruin Sea"
-#terrain 8 0
+#terrain 8 4
 #landname 9 "The Stankhar Threads"
 #terrain 9 0
 #landname 10 "Voe"
@@ -45,12 +45,12 @@
 #terrain 20 0
 #terrain 21 0
 #landname 22 "Brackish Sea"
-#terrain 22 0
-#terrain 23 0
+#terrain 22 2052
+#terrain 23 4
 #landname 24 "Wyrm's Tear Isle"
 #terrain 24 0
 #landname 25 "Graywater Sea"
-#terrain 25 0
+#terrain 25 4
 #landname 26 "Ollerholm"
 #terrain 26 0
 #terrain 27 0
@@ -59,7 +59,7 @@
 #terrain 30 0
 #terrain 31 0
 #landname 32 "Brackish Bay"
-#terrain 32 0
+#terrain 32 2052
 #terrain 33 0
 #terrain 34 0
 #terrain 35 0
@@ -85,7 +85,7 @@
 #terrain 52 0
 #terrain 53 0
 #terrain 54 0
-#terrain 55 0
+#terrain 55 8
 #terrain 56 0
 #terrain 57 0
 #terrain 58 0
@@ -228,10 +228,15 @@
 #terrain 162 0
 
 -- Province neighbours
+#neighbour 1 15
+#neighbour 1 4
+#neighbour 1 14
 #neighbour 2 7
+#neighbour 2 22
 #neighbour 3 18
 #neighbour 3 16
 #neighbour 3 9
+#neighbour 4 12
 #neighbour 5 18
 #neighbour 6 9
 #neighbour 6 13
@@ -245,30 +250,92 @@
 #neighbour 9 10
 #neighbour 10 13
 #neighbour 10 25
+#neighbour 11 12
 #neighbour 12 14
+#neighbour 12 20
+#neighbour 14 21
+#neighbour 15 46
+#neighbour 15 27
 #neighbour 16 18
+#neighbour 17 27
+#neighbour 17 28
 #neighbour 18 26
 #neighbour 18 36
+#neighbour 19 22
+#neighbour 19 32
+#neighbour 20 29
+#neighbourspec 20 29 1
+#neighbour 20 30
+#neighbourspec 20 30 1
+#neighbour 21 23
+#neighbour 21 31
+#neighbour 22 32
+#neighbour 22 64
+#neighbour 23 35
+#neighbour 23 31
 #neighbour 24 25
+#neighbour 24 32
 #neighbour 25 37
 #neighbour 25 39
 #neighbour 26 36
+#neighbour 27 34
+#neighbourspec 27 34 2
+#neighbour 27 28
+#neighbour 28 34
+#neighbourspec 28 34 2
+#neighbour 28 35
+#neighbour 29 33
+#neighbourspec 29 33 1
+#neighbour 29 30
+#neighbourspec 29 30 1
+#neighbour 29 45
+#neighbourspec 29 45 1
+#neighbour 30 43
+#neighbourspec 30 43 1
+#neighbour 30 45
+#neighbourspec 30 45 1
+#neighbour 31 35
+#neighbour 31 33
+#neighbour 31 44
+#neighbour 32 64
+#neighbour 32 40
 #neighbour 33 45
+#neighbour 33 41
+#neighbour 34 48
+#neighbour 34 35
+#neighbour 35 48
+#neighbour 35 44
 #neighbour 36 42
 #neighbour 36 50
+#neighbour 36 38
 #neighbour 37 42
 #neighbour 37 39
 #neighbour 38 50
+#neighbour 38 47
 #neighbour 39 51
+#neighbour 39 40
+#neighbourspec 39 40 2
+#neighbour 40 51
+#neighbourspec 40 51 2
+#neighbour 40 64
 #neighbour 42 59
 #neighbour 42 50
+#neighbour 43 45
+#neighbour 43 54
+#neighbourspec 43 54 2
+#neighbour 43 47
+#neighbourspec 43 47 2
 #neighbour 46 69
+#neighbour 47 54
 #neighbour 50 59
 #neighbour 50 55
 #neighbour 51 57
 #neighbour 52 62
 #neighbour 57 59
 #neighbour 59 67
+#neighbour 64 71
+#neighbour 64 80
+#neighbour 64 96
 #neighbour 69 93
 #neighbour 75 84
 #neighbour 80 96
