@@ -12,11 +12,11 @@
 #description "Enter the world of the Banner Saga. With mostly accurate names for provinces, and some filler."
 
 -- Province names/terrains
-#terrain 1 0
+#terrain 1 16777792
 #landname 2 "Blackwater Deep"
 #terrain 2 2052
 #landname 3 "The Rotting Roots"
-#terrain 3 0
+#terrain 3 33554432
 #terrain 4 0
 #terrain 5 0
 #landname 6 "Graywater stretch"
@@ -24,45 +24,45 @@
 #landname 7 "Foggy Shard"
 #terrain 7 0
 #landname 8 "Gruin Sea"
-#terrain 8 4
+#terrain 8 33554436
 #landname 9 "The Stankhar Threads"
 #terrain 9 0
 #landname 10 "Voe"
 #terrain 10 0
-#terrain 11 0
-#terrain 12 0
+#terrain 11 33554432
+#terrain 12 16778496
 #landname 13 "Wyrm's Tail"
 #terrain 13 0
-#terrain 14 0
-#terrain 15 2052
+#terrain 14 256
+#terrain 15 2054
 #landname 16 "Mire Fallows"
-#terrain 16 0
+#terrain 16 16777216
 #terrain 17 0
 #landname 18 "Swartbog"
 #terrain 18 0
 #landname 19 "Fog Island"
 #terrain 19 0
 #terrain 20 0
-#terrain 21 0
+#terrain 21 33555456
 #landname 22 "Brackish Sea"
 #terrain 22 2052
-#terrain 23 4
+#terrain 23 5
 #landname 24 "Wyrm's Tear Isle"
 #terrain 24 0
 #landname 25 "Graywater Sea"
 #terrain 25 4
 #landname 26 "Ollerholm"
-#terrain 26 0
+#terrain 26 33554432
 #terrain 27 0
 #terrain 28 0
 #terrain 29 0
-#terrain 30 0
+#terrain 30 16777216
 #terrain 31 0
 #landname 32 "Brackish Bay"
 #terrain 32 2052
 #terrain 33 0
 #terrain 34 0
-#terrain 35 0
+#terrain 35 33554432
 #landname 36 "Crooks Hollow"
 #terrain 36 0
 #landname 37 "Ironpeat Wash"
@@ -72,66 +72,66 @@
 #terrain 40 0
 #terrain 41 0
 #landname 42 "Bolunskr"
-#terrain 42 0
+#terrain 42 33554432
 #terrain 43 0
 #terrain 44 0
-#terrain 45 0
+#terrain 45 33554432
 #terrain 46 2052
 #terrain 47 0
 #terrain 48 0
 #terrain 49 0
 #terrain 50 0
 #terrain 51 0
-#terrain 52 0
+#terrain 52 33554432
 #terrain 53 0
 #terrain 54 0
 #terrain 55 8
-#terrain 56 0
-#terrain 57 0
+#terrain 56 16777216
+#terrain 57 33554432
 #terrain 58 0
 #terrain 59 0
 #terrain 60 0
-#terrain 61 0
+#terrain 61 33554432
 #terrain 62 0
-#terrain 63 0
+#terrain 63 33554432
 #landname 64 "Ocean of Despair"
 #terrain 64 2052
 #terrain 65 0
 #terrain 66 0
-#terrain 67 0
-#terrain 68 4
+#terrain 67 16777344
+#terrain 68 33554436
 #terrain 69 2052
-#terrain 70 8
+#terrain 70 33554440
 #landname 71 "Three Islands"
 #terrain 71 0
 #terrain 72 0
 #terrain 73 0
-#terrain 74 0
+#terrain 74 33554432
 #terrain 75 0
-#terrain 76 0
-#terrain 77 0
+#terrain 76 256
+#terrain 77 16777216
 #terrain 78 0
 #terrain 79 8
 #landname 80 "Spirit Water"
-#terrain 80 2052
+#terrain 80 16779268
 #terrain 81 0
 #terrain 82 0
-#terrain 83 0
+#terrain 83 33554432
 #terrain 84 0
 #terrain 85 0
 #terrain 86 4
-#terrain 87 0
+#terrain 87 1024
 #terrain 88 0
 #terrain 89 16
 #terrain 90 0
 #terrain 91 4
 #terrain 92 0
 #terrain 93 2052
-#terrain 94 0
-#terrain 95 0
+#terrain 94 16777216
+#terrain 95 33554432
 #landname 96 "Eastern Waters"
 #terrain 96 2052
-#terrain 97 4
+#terrain 97 33554436
 #terrain 98 0
 #terrain 99 0
 #terrain 100 0
@@ -140,18 +140,18 @@
 #terrain 103 0
 #terrain 104 0
 #terrain 105 4
-#terrain 106 0
+#terrain 106 33554432
 #terrain 107 0
 #terrain 108 16
-#terrain 109 0
+#terrain 109 33554432
 #terrain 110 0
 #terrain 111 0
 #terrain 112 0
-#terrain 113 0
+#terrain 113 33554432
 #terrain 114 0
-#terrain 115 0
+#terrain 115 33554432
 #terrain 116 2052
-#terrain 117 0
+#terrain 117 16777216
 #terrain 118 0
 #terrain 119 0
 #landname 120 "Ravenhead"
@@ -164,9 +164,9 @@
 #landname 125 "Blotsbalkr"
 #terrain 125 0
 #landname 126 "Grofheim"
-#terrain 126 0
+#terrain 126 33554432
 #terrain 127 4
-#terrain 128 4194320
+#terrain 128 20971536
 #terrain 129 0
 #terrain 130 0
 #landname 131 "Vetur Sea South"
@@ -174,22 +174,22 @@
 #terrain 132 0
 #terrain 133 4194320
 #terrain 134 0
-#terrain 135 2052
+#terrain 135 16779268
 #landname 136 "Frostquoy"
 #terrain 136 4
 #terrain 137 4
 #landname 138 "Valkajokull"
-#terrain 138 0
+#terrain 138 33554432
 #terrain 139 0
 #landname 140 "Mornforth Taing"
-#terrain 140 0
+#terrain 140 16777216
 #landname 141 "Weaver's Eye"
 #terrain 141 4
 #landname 142 "The Anvil"
 #terrain 142 0
 #landname 143 "Nordskalr"
 #terrain 143 0
-#terrain 144 2052
+#terrain 144 33556484
 #landname 145 "Endless Ocean"
 #terrain 145 2052
 #landname 146 "Stem"
@@ -203,9 +203,9 @@
 #landname 150 "Harrows Mouth"
 #terrain 150 2052
 #landname 151 "Vetur Sea North"
-#terrain 151 2052
+#terrain 151 33556484
 #landname 152 "Cletberg"
-#terrain 152 0
+#terrain 152 16777216
 #landname 153 "Wordan"
 #terrain 153 0
 #landname 154 "North Constellations"
@@ -213,7 +213,7 @@
 #landname 155 "Strait of Harrows"
 #terrain 155 0
 #landname 156 "Dundr's Beard"
-#terrain 156 0
+#terrain 156 16777216
 #landname 157 "Outer Waters"
 #terrain 157 2052
 #landname 158 "Edge Water"
@@ -278,7 +278,6 @@
 #neighbour 20 29
 #neighbourspec 20 29 1
 #neighbour 20 30
-#neighbourspec 20 30 1
 #neighbour 21 23
 #neighbour 21 31
 #neighbour 22 32
@@ -576,6 +575,7 @@
 #neighbour 138 142
 #neighbour 139 140
 #neighbourspec 139 140 2
+#neighbour 139 150
 #neighbour 141 148
 #neighbour 141 146
 #neighbour 141 142
