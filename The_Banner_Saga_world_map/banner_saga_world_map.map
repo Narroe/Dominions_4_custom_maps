@@ -10,7 +10,7 @@
 #imagefile banner_saga_world_map.tga
 #domversion 350
 #maptextcol 0.10 0.10 0.10 1.00
-#description "Enter the world of the Banner Saga. With mostly accurate names for provinces, and some filler."
+#description "Enter the world of the Banner Saga. With mostly accurate names and terrain types for provinces."
 
 -- Province names/terrains
 #landname 1 "Dalalond's Edge"
