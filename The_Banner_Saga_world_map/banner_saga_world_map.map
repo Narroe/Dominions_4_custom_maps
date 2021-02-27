@@ -9,15 +9,19 @@
 #dom2title The Banner Saga world map
 #imagefile banner_saga_world_map.tga
 #domversion 350
+#maptextcol 1.00 1.00 1.00 1.00
 #description "Enter the world of the Banner Saga. With mostly accurate names for provinces, and some filler."
 
 -- Province names/terrains
+#landname 1 "Dalalond's Edge"
 #terrain 1 16778818
 #landname 2 "Blackwater Deep"
 #terrain 2 2118
 #landname 3 "The Rotting Roots"
 #terrain 3 33554474
+#landname 4 "Dalalond"
 #terrain 4 514
+#landname 5 "Swartbog South"
 #terrain 5 42
 #landname 6 "Graywater stretch"
 #terrain 6 4
@@ -29,157 +33,257 @@
 #terrain 9 296
 #landname 10 "Voe"
 #terrain 10 4097
+#landname 11 "Asar"
 #terrain 11 33554688
+#landname 12 "Plains of Slaughter"
 #terrain 12 16778496
 #landname 13 "Wyrm's Tail"
 #terrain 13 0
+#landname 14 "Ormsfjord"
 #terrain 14 256
+#landname 15 "Lonely waters"
 #terrain 15 6150
 #landname 16 "Mire Fallows"
-#terrain 16 16777256
+#terrain 16 16778280
+#landname 17 "Lax Harbour"
 #terrain 17 4869
 #landname 18 "Swartbog"
 #terrain 18 40
 #landname 19 "Fog Island"
 #terrain 19 1600
+#landname 20 "Downs Crossing"
 #terrain 20 0
+#landname 21 "Fiskivik"
 #terrain 21 33555456
 #landname 22 "Brackish Sea"
 #terrain 22 2118
+#landname 23 "Fiska Bay"
 #terrain 23 261
 #landname 24 "Wyrm's Tear Isle"
 #terrain 24 1024
 #landname 25 "Graywater Sea"
-#terrain 25 1092
+#terrain 25 68
 #landname 26 "Ollerholm"
 #terrain 26 33554472
+#landname 27 "Ongullstaddr"
 #terrain 27 0
+#landname 28 "Last Grove"
 #terrain 28 128
+#landname 29 "Foulwind Hills West"
 #terrain 29 4198416
+#landname 30 "Foulwind Hills East"
 #terrain 30 20975632
+#landname 31 "The Old Wood"
 #terrain 31 130
 #landname 32 "Brackish Bay"
 #terrain 32 2116
+#landname 33 "Etingbekkr"
 #terrain 33 136
+#landname 34 "Arberrang"
 #terrain 34 1288
+#landname 35 "Tolir"
 #terrain 35 33554432
 #landname 36 "Crooks Hollow"
 #terrain 36 40
 #landname 37 "Ironpeat Wash"
 #terrain 37 288
-#terrain 38 0
+#landname 38 "Etiltorp"
+#terrain 38 1024
 #terrain 39 264
+#landname 40 "Sweinn Isle"
 #terrain 40 1088
+#landname 41 "Lundar"
 #terrain 41 128
 #landname 42 "Bolunskr"
 #terrain 42 33554696
+#landname 43 "Stromlund"
 #terrain 43 0
+#landname 44 "Gaular"
 #terrain 44 256
+#landname 45 "Grundar"
 #terrain 45 33554688
+#landname 46 "Manaharr Waters"
 #terrain 46 2564
+#landname 47 "Aros"
 #terrain 47 8
+#landname 48 "Vik's Neck"
 #terrain 48 8
+#landname 49 "Fingernail Weald"
 #terrain 49 128
+#landname 50 "Deeplunn"
 #terrain 50 128
+#landname 51 "Sweinnsfeed"
 #terrain 51 64
-#terrain 52 33554440
+#landname 52 "Akur"
+#terrain 52 33554696
+#landname 53 "Eastway Road"
 #terrain 53 0
+#landname 54 "Ormsdalr"
 #terrain 54 8
+#landname 55 "Deepmot"
 #terrain 55 8
+#landname 56 "The Godsreach Hills"
 #terrain 56 20971536
+#landname 57 "Gardstad"
 #terrain 57 33554440
+#landname 58 "Manaharr"
 #terrain 58 16782848
+#landname 59 "Wolves Maw"
 #terrain 59 128
-#terrain 60 0
+#landname 60 "Eastway Brush"
+#terrain 60 128
+#landname 61 "Boersgard"
 #terrain 61 33554432
-#terrain 62 0
+#landname 62 "Whithagr"
+#terrain 62 256
+#landname 63 "Bindal"
 #terrain 63 37748752
-#landname 64 "Ocean of Despair"
+#landname 64 "Brownwater]"
 #terrain 64 2054
+#landname 65 "Rundwall"
 #terrain 65 2
-#terrain 66 0
+#landname 66 "Toothpick Wood"
+#terrain 66 128
+#landname 67 "Tistel"
 #terrain 67 16777346
+#landname 68 "Sunken Ship Bay"
 #terrain 68 33554692
+#landname 69 "The Vast South"
 #terrain 69 2052
+#landname 70 "Halsar"
 #terrain 70 33554456
 #landname 71 "Three Islands"
 #terrain 71 1025
+#landname 72 "Hjardarhagi"
 #terrain 72 4194312
+#landname 73 "Reynivik"
 #terrain 73 0
+#landname 74 "Stikill"
 #terrain 74 33554432
-#terrain 75 136
+#landname 75 "Lang Loom Forest"
+#terrain 75 138
+#landname 76 "Fladdavalor Plains"
 #terrain 76 256
+#landname 77 "Karlsvat"
 #terrain 77 16777224
+#landname 78 "Seahorn"
 #terrain 78 1
+#landname 79 "Sigrholm"
 #terrain 79 8
 #landname 80 "Spirit Water"
 #terrain 80 16780292
+#landname 81 "Karlshus"
 #terrain 81 8
+#landname 82 "Backsfjord"
 #terrain 82 8
 #terrain 83 33554440
+#landname 84 "Grenilund"
 #terrain 84 128
 #terrain 85 0
+#landname 86 "The Left Foot"
 #terrain 86 5
+#landname 87 "Nautmot"
 #terrain 87 1024
+#landname 88 "Pine Lunn"
 #terrain 88 128
+#landname 89 "Wyrmscale Mountains"
 #terrain 89 4194320
 #terrain 90 1
+#landname 91 "East Wick"
 #terrain 91 1284
+#landname 92 "Spine Isles"
 #terrain 92 1
+#landname 93 "The Vast Sea"
 #terrain 93 33556484
+#landname 94 "Hraun"
 #terrain 94 16777218
+#landname 95 "Haukstorp"
 #terrain 95 33554432
 #landname 96 "Eastern Waters"
 #terrain 96 2054
+#landname 97 "Denglr's Bay"
 #terrain 97 33554693
+#landname 98 "The Wandering Road"
 #terrain 98 0
 #terrain 99 4194313
+#landname 100 "Old Father"
 #terrain 100 4194304
+#landname 101 "Rike"
 #terrain 101 0
+#landname 102 "Shiver Rock"
 #terrain 102 1025
+#landname 103 "Ridgehorn"
 #terrain 103 4194305
 #terrain 104 4194321
+#landname 105 "Baa Harbour"
 #terrain 105 260
+#landname 106 "Einartoft"
 #terrain 106 37748752
+#landname 107 "Bitra"
 #terrain 107 129
+#landname 108 "Burra Pass"
 #terrain 108 4194320
+#landname 109 "Schlid"
 #terrain 109 37753088
+#landname 110 "Setterlund"
 #terrain 110 2
+#landname 111 "Fastisetr"
 #terrain 111 4194304
+#landname 112 "The Long Reach"
 #terrain 112 4194304
+#landname 113 "Wyrmtoe"
 #terrain 113 37748736
+#landname 114 "Frostvellr"
 #terrain 114 0
+#landname 115 "Skogr"
 #terrain 115 33554561
-#terrain 116 3078
+#landname 116 "The Vast North"
+#terrain 116 2054
+#landname 117 "King's Barrow"
 #terrain 117 20971520
+#landname 118 "Stonehorn"
 #terrain 118 0
+#landname 119 "The Twin Rivers"
 #terrain 119 9
 #landname 120 "Ravenhead"
 #terrain 120 0
+#landname 121 "Rumfjord"
 #terrain 121 8
+#landname 122 "Nordfelling Wastes"
 #terrain 122 0
 #landname 123 "The Spear"
 #terrain 123 16778240
+#landname 124 "Gelmsfjord"
 #terrain 124 9
 #landname 125 "Blotsbalkr"
 #terrain 125 2
 #landname 126 "Grofheim"
 #terrain 126 33554434
+#landname 127 "Silverstone"
 #terrain 127 260
-#terrain 128 20971536
-#terrain 129 1
-#terrain 130 4354
+#landname 128 "Gnasher, Biter, and Grinder"
+#terrain 128 20972560
+#landname 129 "North Tongue"
+#terrain 129 1025
+#landname 130 "Steppes of Silence"
+#terrain 130 5378
 #landname 131 "Vetur Sea South"
 #terrain 131 2054
+#landname 132 "Gimfell Peak"
 #terrain 132 4198416
+#landname 133 "The Sky Irons"
 #terrain 133 4194320
+#landname 134 "Greyhorn"
 #terrain 134 4194304
+#landname 135 "Cardinal Waters"
 #terrain 135 16784390
 #landname 136 "Frostquoy"
 #terrain 136 260
+#landname 137 "The Frozen Tombs"
 #terrain 137 5380
 #landname 138 "Valkajokull"
 #terrain 138 33558594
+#landname 139 "Flat Plain"
 #terrain 139 0
 #landname 140 "Mornforth Taing"
 #terrain 140 16778240
@@ -189,13 +293,14 @@
 #terrain 142 0
 #landname 143 "Nordskalr"
 #terrain 143 4160
+#landname 144 "Sea of Constellations"
 #terrain 144 33557510
-#landname 145 "Endless Ocean"
+#landname 145 "Furthest Stars"
 #terrain 145 3078
 #landname 146 "Stem"
-#terrain 146 4352
+#terrain 146 5376
 #landname 147 "Fraksberg"
-#terrain 147 66
+#terrain 147 1090
 #landname 148 "The Hammer"
 #terrain 148 64
 #landname 149 "Lonely Point"
@@ -213,7 +318,7 @@
 #landname 155 "Strait of Harrows"
 #terrain 155 6
 #landname 156 "Dundr's Beard"
-#terrain 156 16777282
+#terrain 156 16778306
 #landname 157 "Outer Waters"
 #terrain 157 2054
 #landname 158 "Edge Water"
@@ -343,6 +448,7 @@
 #neighbourspec 41 56 1
 #neighbour 41 45
 #neighbourspec 41 45 2
+#neighbour 41 81
 #neighbour 42 59
 #neighbour 42 50
 #neighbour 43 45
@@ -493,7 +599,6 @@
 #neighbour 103 109
 #neighbour 103 112
 #neighbourspec 103 112 1
-#neighbour 104 111
 #neighbour 104 109
 #neighbour 105 115
 #neighbour 106 113
@@ -529,6 +634,7 @@
 #neighbour 116 135
 #neighbour 117 126
 #neighbour 118 119
+#neighbourspec 118 119 2
 #neighbour 118 121
 #neighbour 118 124
 #neighbourspec 118 124 2
@@ -538,9 +644,11 @@
 #neighbour 120 125
 #neighbour 120 123
 #neighbourspec 120 123 2
-#neighbour 121 129
 #neighbour 121 127
 #neighbour 121 126
+#neighbourspec 121 126 2
+#neighbour 121 124
+#neighbourspec 121 124 2
 #neighbour 122 128
 #neighbour 123 136
 #neighbour 123 131
