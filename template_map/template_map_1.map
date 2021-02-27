@@ -7,7 +7,7 @@
 
 -- Title and image file
 #dom2title Testing the waters.
-#imagefile test_map_1.tga
+#imagefile template_map_1.tga
 #domversion 350
 #maptextcol 1.00 1.00 1.00 1.00
 #description "Can you survive and overcome, in this poorly created world?"
