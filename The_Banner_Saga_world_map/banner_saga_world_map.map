@@ -34,7 +34,7 @@
 #landname 13 "Wyrm's Tail"
 #terrain 13 0
 #terrain 14 0
-#terrain 15 0
+#terrain 15 2052
 #landname 16 "Mire Fallows"
 #terrain 16 0
 #terrain 17 0
@@ -99,9 +99,9 @@
 #terrain 65 0
 #terrain 66 0
 #terrain 67 0
-#terrain 68 0
+#terrain 68 4
 #terrain 69 2052
-#terrain 70 0
+#terrain 70 8
 #landname 71 "Three Islands"
 #terrain 71 0
 #terrain 72 0
@@ -111,7 +111,7 @@
 #terrain 76 0
 #terrain 77 0
 #terrain 78 0
-#terrain 79 0
+#terrain 79 8
 #landname 80 "Spirit Water"
 #terrain 80 2052
 #terrain 81 0
@@ -119,19 +119,19 @@
 #terrain 83 0
 #terrain 84 0
 #terrain 85 0
-#terrain 86 0
+#terrain 86 4
 #terrain 87 0
 #terrain 88 0
-#terrain 89 0
+#terrain 89 16
 #terrain 90 0
-#terrain 91 0
+#terrain 91 4
 #terrain 92 0
 #terrain 93 2052
 #terrain 94 0
 #terrain 95 0
 #landname 96 "Eastern Waters"
 #terrain 96 2052
-#terrain 97 0
+#terrain 97 4
 #terrain 98 0
 #terrain 99 0
 #terrain 100 0
@@ -139,10 +139,10 @@
 #terrain 102 0
 #terrain 103 0
 #terrain 104 0
-#terrain 105 0
+#terrain 105 4
 #terrain 106 0
 #terrain 107 0
-#terrain 108 0
+#terrain 108 16
 #terrain 109 0
 #terrain 110 0
 #terrain 111 0
@@ -236,11 +236,16 @@
 #neighbour 3 18
 #neighbour 3 16
 #neighbour 3 9
+#neighbour 3 5
 #neighbour 4 12
+#neighbour 4 14
 #neighbour 5 18
+#neighbour 5 11
+#neighbour 5 26
 #neighbour 6 9
 #neighbour 6 13
 #neighbour 6 8
+#neighbour 6 10
 #neighbour 7 8
 #neighbour 7 19
 #neighbour 7 22
@@ -251,14 +256,21 @@
 #neighbour 10 13
 #neighbour 10 25
 #neighbour 11 12
+#neighbour 11 20
+#neighbour 11 26
 #neighbour 12 14
 #neighbour 12 20
+#neighbour 13 25
+#neighbour 13 24
+#neighbourspec 13 24 2
 #neighbour 14 21
 #neighbour 15 46
 #neighbour 15 27
+#neighbour 15 34
 #neighbour 16 18
 #neighbour 17 27
 #neighbour 17 28
+#neighbour 17 23
 #neighbour 18 26
 #neighbour 18 36
 #neighbour 19 22
@@ -278,6 +290,7 @@
 #neighbour 25 37
 #neighbour 25 39
 #neighbour 26 36
+#neighbour 26 30
 #neighbour 27 34
 #neighbourspec 27 34 2
 #neighbour 27 28
@@ -303,6 +316,7 @@
 #neighbour 33 41
 #neighbour 34 48
 #neighbour 34 35
+#neighbour 34 46
 #neighbour 35 48
 #neighbour 35 44
 #neighbour 36 42
@@ -310,14 +324,20 @@
 #neighbour 36 38
 #neighbour 37 42
 #neighbour 37 39
+#neighbourspec 37 39 2
 #neighbour 38 50
 #neighbour 38 47
 #neighbour 39 51
 #neighbour 39 40
 #neighbourspec 39 40 2
+#neighbour 39 57
 #neighbour 40 51
 #neighbourspec 40 51 2
 #neighbour 40 64
+#neighbour 41 56
+#neighbourspec 41 56 1
+#neighbour 41 45
+#neighbourspec 41 45 2
 #neighbour 42 59
 #neighbour 42 50
 #neighbour 43 45
@@ -325,70 +345,214 @@
 #neighbourspec 43 54 2
 #neighbour 43 47
 #neighbourspec 43 47 2
+#neighbour 44 52
+#neighbour 44 49
+#neighbour 45 53
+#neighbourspec 45 53 2
 #neighbour 46 69
+#neighbour 46 58
+#neighbour 46 48
 #neighbour 47 54
+#neighbour 47 55
+#neighbour 48 58
+#neighbourspec 48 58 2
+#neighbour 48 52
+#neighbourspec 48 52 2
+#neighbour 48 68
+#neighbour 49 52
+#neighbour 49 56
+#neighbourspec 49 56 1
+#neighbour 49 65
 #neighbour 50 59
 #neighbour 50 55
 #neighbour 51 57
 #neighbour 52 62
+#neighbourspec 52 62 2
+#neighbour 52 68
+#neighbour 53 56
+#neighbourspec 53 56 1
+#neighbour 53 60
+#neighbour 54 60
+#neighbour 55 61
+#neighbour 56 65
+#neighbourspec 56 65 1
+#neighbour 56 63
+#neighbourspec 56 63 1
 #neighbour 57 59
+#neighbour 58 68
+#neighbour 58 69
 #neighbour 59 67
+#neighbour 60 63
+#neighbour 60 66
+#neighbour 61 66
+#neighbour 61 73
+#neighbour 61 72
+#neighbour 62 65
+#neighbour 62 68
+#neighbour 63 65
 #neighbour 64 71
 #neighbour 64 80
 #neighbour 64 96
+#neighbour 65 76
+#neighbour 66 72
+#neighbour 66 70
+#neighbour 67 75
+#neighbour 67 73
+#neighbour 68 78
+#neighbour 68 69
+#neighbour 68 74
 #neighbour 69 93
+#neighbour 69 78
+#neighbour 70 72
+#neighbour 70 77
+#neighbour 70 87
+#neighbour 71 80
+#neighbour 71 85
+#neighbourspec 71 85 2
+#neighbour 72 73
+#neighbour 73 75
+#neighbour 74 76
+#neighbour 74 78
+#neighbour 74 82
 #neighbour 75 84
+#neighbour 75 79
+#neighbour 75 88
+#neighbour 76 82
+#neighbour 76 83
+#neighbour 77 81
+#neighbour 77 94
+#neighbour 78 82
+#neighbour 78 93
+#neighbour 79 88
+#neighbour 79 89
+#neighbourspec 79 89 1
 #neighbour 80 96
-#neighbour 81 126
+#neighbour 80 85
+#neighbour 81 83
+#neighbour 81 99
+#neighbourspec 81 99 2
+#neighbour 81 98
+#neighbourspec 81 98 2
+#neighbour 82 86
+#neighbour 82 92
+#neighbourspec 82 92 2
+#neighbour 83 90
+#neighbourspec 83 90 2
 #neighbour 84 91
 #neighbour 84 95
 #neighbour 84 88
 #neighbour 85 91
 #neighbour 85 96
-#neighbour 87 126
+#neighbour 86 92
+#neighbour 86 97
+#neighbour 86 90
+#neighbour 87 94
+#neighbour 87 89
+#neighbourspec 87 89 1
 #neighbour 88 95
+#neighbour 88 100
+#neighbour 90 97
+#neighbour 90 99
 #neighbour 91 105
 #neighbour 91 101
+#neighbour 92 97
+#neighbour 92 102
+#neighbourspec 92 102 2
 #neighbour 93 116
-#neighbour 94 126
+#neighbour 93 102
+#neighbour 94 98
+#neighbour 94 108
+#neighbourspec 94 108 1
+#neighbour 94 106
 #neighbour 95 101
 #neighbour 95 100
+#neighbour 95 110
 #neighbour 96 131
 #neighbour 96 105
+#neighbour 97 99
+#neighbour 97 103
+#neighbour 97 102
+#neighbour 98 99
+#neighbour 98 104
+#neighbour 99 104
+#neighbour 100 106
+#neighbour 100 110
+#neighbourspec 100 110 1
 #neighbour 101 107
-#neighbour 104 126
+#neighbour 101 114
+#neighbour 101 110
+#neighbour 102 116
+#neighbour 102 103
+#neighbourspec 102 103 2
+#neighbour 103 104
+#neighbour 103 109
+#neighbour 103 112
+#neighbourspec 103 112 1
+#neighbour 104 111
+#neighbour 104 109
+#neighbour 105 115
+#neighbour 106 113
+#neighbour 106 108
 #neighbour 107 115
-#neighbour 108 126
+#neighbour 107 114
+#neighbour 108 117
 #neighbour 109 118
-#neighbour 109 126
+#neighbour 109 111
+#neighbour 109 112
+#neighbourspec 109 112 1
 #neighbour 110 115
 #neighbour 110 114
 #neighbour 110 122
 #neighbour 110 113
-#neighbour 111 126
 #neighbour 111 121
-#neighbour 113 126
+#neighbour 111 117
+#neighbour 112 116
+#neighbour 112 135
+#neighbour 112 119
+#neighbourspec 112 119 2
 #neighbour 113 122
+#neighbour 113 117
 #neighbour 114 115
+#neighbour 114 122
+#neighbour 114 125
+#neighbour 114 128
+#neighbourspec 114 128 1
+#neighbour 115 120
+#neighbourspec 115 120 2
+#neighbour 115 125
+#neighbour 116 135
 #neighbour 117 126
-#neighbour 117 121
 #neighbour 118 119
-#neighbour 118 126
 #neighbour 118 121
-#neighbour 121 126
+#neighbour 118 124
+#neighbourspec 118 124 2
+#neighbour 118 129
+#neighbourspec 118 129 2
+#neighbour 119 135
+#neighbour 120 125
+#neighbour 120 123
+#neighbourspec 120 123 2
 #neighbour 121 129
-#neighbour 122 126
+#neighbour 121 127
+#neighbour 121 126
 #neighbour 122 128
 #neighbour 123 136
 #neighbour 123 131
 #neighbour 124 129
-#neighbour 124 126
+#neighbour 124 127
 #neighbour 125 136
 #neighbour 125 128
 #neighbourspec 125 128 1
+#neighbour 125 134
+#neighbour 126 127
+#neighbour 126 130
+#neighbour 126 137
+#neighbour 127 137
+#neighbour 127 129
 #neighbour 128 133
 #neighbour 128 134
 #neighbourspec 128 134 1
+#neighbour 129 144
 #neighbour 130 132
 #neighbour 130 138
 #neighbour 131 151
@@ -399,10 +563,14 @@
 #neighbourspec 133 139 1
 #neighbour 134 139
 #neighbour 134 136
+#neighbour 135 145
+#neighbour 135 144
 #neighbour 136 140
 #neighbour 136 139
 #neighbour 136 141
 #neighbourspec 136 141 2
+#neighbour 137 149
+#neighbour 137 144
 #neighbour 138 147
 #neighbour 138 143
 #neighbour 138 142
@@ -416,6 +584,8 @@
 #neighbour 143 147
 #neighbour 143 148
 #neighbour 144 154
+#neighbour 144 149
+#neighbour 144 153
 #neighbour 145 152
 #neighbour 145 153
 #neighbour 145 157
