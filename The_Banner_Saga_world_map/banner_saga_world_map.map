@@ -9,7 +9,7 @@
 #dom2title The Banner Saga world map
 #imagefile banner_saga_world_map.tga
 #domversion 350
-#maptextcol 1.00 1.00 1.00 1.00
+#maptextcol 0.10 0.10 0.10 1.00
 #description "Enter the world of the Banner Saga. With mostly accurate names for provinces, and some filler."
 
 -- Province names/terrains
@@ -89,6 +89,7 @@
 #terrain 37 288
 #landname 38 "Etiltorp"
 #terrain 38 1024
+#landname 39 "The Armsbeck"
 #terrain 39 264
 #landname 40 "Sweinn Isle"
 #terrain 40 1088
@@ -176,9 +177,11 @@
 #terrain 81 8
 #landname 82 "Backsfjord"
 #terrain 82 8
+#landname 83 "Strand"
 #terrain 83 33554440
 #landname 84 "Grenilund"
 #terrain 84 128
+#landname 85 "Skelmotskrolr Spindle"
 #terrain 85 0
 #landname 86 "The Left Foot"
 #terrain 86 5
@@ -188,6 +191,7 @@
 #terrain 88 128
 #landname 89 "Wyrmscale Mountains"
 #terrain 89 4194320
+#landname 90 "Karlsfjord"
 #terrain 90 1
 #landname 91 "East Wick"
 #terrain 91 1284
@@ -205,6 +209,7 @@
 #terrain 97 33554693
 #landname 98 "The Wandering Road"
 #terrain 98 0
+#landname 99 "Vedrfell"
 #terrain 99 4194313
 #landname 100 "Old Father"
 #terrain 100 4194304
@@ -214,6 +219,7 @@
 #terrain 102 1025
 #landname 103 "Ridgehorn"
 #terrain 103 4194305
+#landname 104 "The Hanged Man"
 #terrain 104 4194321
 #landname 105 "Baa Harbour"
 #terrain 105 260
@@ -374,6 +380,8 @@
 #neighbour 13 24
 #neighbourspec 13 24 2
 #neighbour 14 21
+#neighbour 14 29
+#neighbourspec 14 29 1
 #neighbour 15 46
 #neighbour 15 27
 #neighbour 15 34
@@ -501,6 +509,8 @@
 #neighbour 62 65
 #neighbour 62 68
 #neighbour 63 65
+#neighbour 63 70
+#neighbourspec 63 70 1
 #neighbour 64 71
 #neighbour 64 80
 #neighbour 64 96
@@ -521,7 +531,10 @@
 #neighbour 71 85
 #neighbourspec 71 85 2
 #neighbour 72 73
+#neighbour 72 89
+#neighbourspec 72 89 1
 #neighbour 73 75
+#neighbour 73 95
 #neighbour 74 76
 #neighbour 74 78
 #neighbour 74 82
@@ -562,6 +575,8 @@
 #neighbourspec 87 89 1
 #neighbour 88 95
 #neighbour 88 100
+#neighbour 89 100
+#neighbourspec 89 100 1
 #neighbour 90 97
 #neighbour 90 99
 #neighbour 91 105
@@ -606,6 +621,7 @@
 #neighbour 107 115
 #neighbour 107 114
 #neighbour 108 117
+#neighbourspec 108 117 1
 #neighbour 109 118
 #neighbour 109 111
 #neighbour 109 112
