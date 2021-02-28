@@ -10,7 +10,7 @@
 #imagefile template_map_1.tga
 #domversion 350
 #maptextcol 1.00 1.00 1.00 1.00
-#description "Can you survive and overcome, in this poorly created world?"
+#description "This is a basic map for Dominions 4. It is mechanically fully functional and playable. The purpose of this map is to be used as template for any additional maps you may wish to create. Suitable for 2-3 players, where 1 can be a water nation."
 
 -- Province names/terrains
 #landname 1 "Ocean of Plenty"
