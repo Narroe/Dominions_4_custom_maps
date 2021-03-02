@@ -4,6 +4,7 @@ This is the repo for all my custom maps for the game Dominions 4 by IllWinter Ga
 Map list:
   - Template Map
   - The Banner Saga World map
+  - The Caves of Qud world map
 
 
 Feel free to download, play, copy, contribute. Whatever.
