@@ -9,7 +9,7 @@
 #dom2title A map based on Bionicle_Mata_Nui_Island_map.tga.
 #imagefile Bionicle_Mata_Nui_Island_map.tga
 #domversion 350
-#description "A newly created map."
+#description "Enter the world of the Bionicle! Bionicle Mata Nui Island map. Suitable for 4-6 players, where 3 can be water nations."
 
 -- Province names/terrains
 #landname 1 "Kumu Dip"
