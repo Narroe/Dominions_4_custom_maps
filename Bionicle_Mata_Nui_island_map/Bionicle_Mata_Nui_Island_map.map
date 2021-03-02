@@ -53,7 +53,7 @@
 #landname 20 "Ta-Kini"
 #terrain 20 0
 #landname 21 "Mangai Volcano"
-#terrain 21 20971538
+#terrain 21 20975634
 #landname 22 "Suva-Kaita"
 #terrain 22 16777225
 #landname 23 "Tren Krom Break"
@@ -67,7 +67,7 @@
 #landname 27 "Ko-Kini"
 #terrain 27 4198464
 #landname 28 "Mount Ihu"
-#terrain 28 4195344
+#terrain 28 4195346
 #landname 29 "Ga-Koro"
 #terrain 29 256
 #landname 30 "Kopaka Bay"
@@ -186,6 +186,8 @@
 #neighbour 20 24
 #neighbour 21 23
 #neighbourspec 21 23 1
+#neighbour 21 28
+#neighbourspec 21 28 1
 #neighbour 22 25
 #neighbour 22 27
 #neighbour 23 24
@@ -214,7 +216,6 @@
 #neighbour 32 35
 #neighbour 33 38
 #neighbour 33 36
-#neighbourspec 33 36 1
 #neighbour 34 37
 #neighbour 34 39
 #neighbour 34 45
