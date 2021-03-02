@@ -49,7 +49,7 @@
 #landname 18 "Land of the Hidden Houses"
 #terrain 18 5312
 #landname 19 "Rainbow Woods"
-#terrain 19 4136
+#terrain 19 5544
 #landname 20 "Rusted Archway"
 #terrain 20 4199936
 #landname 21 "Gehennom"
@@ -197,6 +197,7 @@
 #neighbour 18 26
 #neighbour 18 29
 #neighbour 18 28
+#neighbour 18 47
 #neighbour 19 28
 #neighbour 19 27
 #neighbour 19 22
