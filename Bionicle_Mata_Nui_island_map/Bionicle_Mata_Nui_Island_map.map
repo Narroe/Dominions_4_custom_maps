@@ -13,19 +13,19 @@
 
 -- Province names/terrains
 #landname 1 "Kumu Dip"
-#terrain 1 33554436
+#terrain 1 4
 #landname 2 "Lewa's Sweep"
 #terrain 2 4
 #landname 3 "Kumu Islets"
 #terrain 3 16777221
 #landname 4 "Sea of Destiny"
-#terrain 4 3078
+#terrain 4 33556486
 #landname 5 "Kumu South"
 #terrain 5 128
 #landname 6 "Kanae Bay"
 #terrain 6 4
 #landname 7 "Sea of Unity"
-#terrain 7 3078
+#terrain 7 33556486
 #landname 8 "Lewa Landing"
 #terrain 8 33554560
 #landname 9 "Four Rivers"
@@ -71,7 +71,7 @@
 #landname 29 "Ga-Koro"
 #terrain 29 256
 #landname 30 "Kopaka Bay"
-#terrain 30 4
+#terrain 30 1028
 #landname 31 "Huru Mafa River"
 #terrain 31 4104
 #landname 32 "Kopaka Landing"
@@ -111,13 +111,13 @@
 #landname 49 "Leva Point"
 #terrain 49 16777472
 #landname 50 "Papa Nihu Waters"
-#terrain 50 33556486
+#terrain 50 2054
 #landname 51 "Leva Bay"
 #terrain 51 0
 #landname 52 "Pohatu Incoming"
 #terrain 52 0
 #landname 53 "Sea of Duty"
-#terrain 53 3078
+#terrain 53 33556486
 
 -- Province neighbours
 #neighbour 1 3
@@ -134,18 +134,25 @@
 #neighbour 5 7
 #neighbour 5 8
 #neighbour 5 9
+#neighbourspec 5 9 2
 #neighbour 6 8
 #neighbour 6 10
 #neighbour 7 9
 #neighbour 7 17
 #neighbour 8 9
 #neighbour 8 10
+#neighbourspec 8 10 2
 #neighbour 8 11
+#neighbour 8 14
 #neighbour 9 13
+#neighbourspec 9 13 2
 #neighbour 9 11
 #neighbour 10 11
+#neighbourspec 10 11 2
 #neighbour 10 14
+#neighbourspec 10 14 2
 #neighbour 10 12
+#neighbourspec 10 12 2
 #neighbour 11 14
 #neighbour 11 16
 #neighbour 11 13
@@ -155,6 +162,7 @@
 #neighbour 12 20
 #neighbour 13 16
 #neighbour 13 18
+#neighbourspec 13 18 2
 #neighbour 13 17
 #neighbour 14 16
 #neighbour 14 19
