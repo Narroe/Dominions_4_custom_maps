@@ -6,7 +6,7 @@
 -- 
 
 -- Title and image file
-#dom2title Caves of Qud world map.
+#dom2title Caves of Qud world map
 #imagefile caves_of_qud_world_map.tga
 #domversion 350
 #description "Enter the Caves of Qud. Your thirst is mine, my water is yours. Suitable for 6-10 players and 0 aquatic kingdoms."
@@ -72,6 +72,14 @@
 #terrain 58 0
 #terrain 59 0
 #terrain 60 0
+#terrain 61 0
+#terrain 62 0
+#terrain 63 0
+#terrain 64 0
+#terrain 65 0
+#terrain 66 0
+#terrain 67 0
+#terrain 68 0
 
 -- Province neighbours
 
