@@ -12,57 +12,109 @@
 #description "A newly created map."
 
 -- Province names/terrains
+#landname 1 "Kumu Dip"
 #terrain 1 0
+#landname 2 "Lewa's Sweep"
 #terrain 2 0
+#landname 3 "Kumu Islets"
 #terrain 3 0
+#landname 4 "Furthest Reach"
 #terrain 4 0
+#landname 5 "Kumu South"
 #terrain 5 0
+#landname 6 "Kanae Bay"
 #terrain 6 0
+#landname 7 "Sweeping Waters"
 #terrain 7 0
+#landname 8 "Lewa Landing"
 #terrain 8 0
+#landname 9 "Four Rivers"
 #terrain 9 0
+#landname 10 "Kanae Islet"
 #terrain 10 0
+#landname 11 "Lake Kanae"
 #terrain 11 0
+#landname 12 "Jankeep"
 #terrain 12 0
+#landname 13 "Fau Swamp"
 #terrain 13 0
+#landname 14 "Pala Plain"
 #terrain 14 0
+#landname 15 "Rahi's Play"
 #terrain 15 0
+#landname 16 "Le-Kini"
 #terrain 16 0
+#landname 17 "Matoran's Swim"
 #terrain 17 0
+#landname 18 "Kini-Nui"
 #terrain 18 0
+#landname 19 "Lake Pala"
 #terrain 19 0
+#landname 20 "Ta-Kini"
 #terrain 20 0
+#landname 21 "Mangai Volcano"
 #terrain 21 0
+#landname 22 "Suva-Kaita"
 #terrain 22 0
+#landname 23 "Tren Krom Break"
 #terrain 23 0
+#landname 24 "Ta-Koro"
 #terrain 24 0
+#landname 25 "Ko-Koro"
 #terrain 25 0
+#landname 26 "Tahu Landing"
 #terrain 26 0
+#landname 27 "Ko-Kini"
 #terrain 27 0
+#landname 28 "Mount Ihu"
 #terrain 28 0
+#landname 29 "Ga-Koro"
 #terrain 29 0
+#landname 30 "Kopaka Bay"
 #terrain 30 0
+#landname 31 "Huru Mafa River"
 #terrain 31 0
+#landname 32 "Kopaka Landing"
 #terrain 32 0
+#landname 33 "Ihu Slope"
 #terrain 33 0
+#landname 34 "Gali Incoming"
 #terrain 34 0
+#landname 35 "Onu-Koro"
 #terrain 35 0
+#landname 36 "Onu-Kini"
 #terrain 36 0
+#landname 37 "Gali Landing"
 #terrain 37 0
+#landname 38 "Naho Bay"
 #terrain 38 0
+#landname 39 "Ga-Kini"
 #terrain 39 0
+#landname 40 "Onu Waters"
 #terrain 40 0
+#landname 41 "Tiro Canyon"
 #terrain 41 0
+#landname 42 "Papa Nihu Reef"
 #terrain 42 0
+#landname 43 "Motara Desert"
 #terrain 43 0
+#landname 44 "Motara Drink"
 #terrain 44 0
+#landname 45 "Po-Kini"
 #terrain 45 0
+#landname 46 "Po-Koro"
 #terrain 46 0
+#landname 47 "Pohatu Landing"
 #terrain 47 0
+#landname 48 "Leva Edge"
 #terrain 48 0
+#landname 49 "Deep Blue"
 #terrain 49 0
+#landname 50 "Leva Bay"
 #terrain 50 0
+#landname 51 "Pohatu Float"
 #terrain 51 0
+#landname 52 "Leva's Incoming"
 #terrain 52 0
 
 -- Province neighbours
