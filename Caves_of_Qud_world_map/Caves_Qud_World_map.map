@@ -9,7 +9,7 @@
 #dom2title Caves of Qud world map
 #imagefile caves_of_qud_world_map.tga
 #domversion 350
-#description "Enter the Caves of Qud. Your thirst is mine, my water is yours. Suitable for 6-10 players and 0 aquatic kingdoms."
+#description "Enter the Caves of Qud. Your thirst is mine, my water is yours. Suitable for 6-8 players and 0 aquatic kingdoms."
 
 -- Province names/terrains
 #terrain 1 32
