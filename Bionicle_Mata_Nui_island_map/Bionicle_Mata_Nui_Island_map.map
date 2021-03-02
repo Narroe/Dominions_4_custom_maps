@@ -13,109 +13,111 @@
 
 -- Province names/terrains
 #landname 1 "Kumu Dip"
-#terrain 1 0
+#terrain 1 33554436
 #landname 2 "Lewa's Sweep"
-#terrain 2 0
+#terrain 2 4
 #landname 3 "Kumu Islets"
-#terrain 3 0
-#landname 4 "Furthest Reach"
-#terrain 4 0
+#terrain 3 16777221
+#landname 4 "Sea of Destiny"
+#terrain 4 3078
 #landname 5 "Kumu South"
-#terrain 5 0
+#terrain 5 128
 #landname 6 "Kanae Bay"
-#terrain 6 0
-#landname 7 "Sweeping Waters"
-#terrain 7 0
+#terrain 6 4
+#landname 7 "Sea of Unity"
+#terrain 7 3078
 #landname 8 "Lewa Landing"
-#terrain 8 0
+#terrain 8 33554560
 #landname 9 "Four Rivers"
-#terrain 9 0
+#terrain 9 137
 #landname 10 "Kanae Islet"
-#terrain 10 0
+#terrain 10 1
 #landname 11 "Lake Kanae"
-#terrain 11 0
+#terrain 11 8
 #landname 12 "Jankeep"
 #terrain 12 0
 #landname 13 "Fau Swamp"
-#terrain 13 0
+#terrain 13 1056
 #landname 14 "Pala Plain"
-#terrain 14 0
+#terrain 14 256
 #landname 15 "Rahi's Play"
-#terrain 15 0
+#terrain 15 6
 #landname 16 "Le-Kini"
-#terrain 16 0
+#terrain 16 32
 #landname 17 "Matoran's Swim"
-#terrain 17 0
+#terrain 17 6
 #landname 18 "Kini-Nui"
-#terrain 18 0
+#terrain 18 32
 #landname 19 "Lake Pala"
-#terrain 19 0
+#terrain 19 1288
 #landname 20 "Ta-Kini"
 #terrain 20 0
 #landname 21 "Mangai Volcano"
-#terrain 21 0
+#terrain 21 20971538
 #landname 22 "Suva-Kaita"
-#terrain 22 0
+#terrain 22 16777225
 #landname 23 "Tren Krom Break"
-#terrain 23 0
+#terrain 23 4194304
 #landname 24 "Ta-Koro"
-#terrain 24 0
+#terrain 24 4194304
 #landname 25 "Ko-Koro"
-#terrain 25 0
+#terrain 25 64
 #landname 26 "Tahu Landing"
-#terrain 26 0
+#terrain 26 37748736
 #landname 27 "Ko-Kini"
-#terrain 27 0
+#terrain 27 4198464
 #landname 28 "Mount Ihu"
-#terrain 28 0
+#terrain 28 4195344
 #landname 29 "Ga-Koro"
-#terrain 29 0
+#terrain 29 256
 #landname 30 "Kopaka Bay"
-#terrain 30 0
+#terrain 30 4
 #landname 31 "Huru Mafa River"
-#terrain 31 0
+#terrain 31 4104
 #landname 32 "Kopaka Landing"
-#terrain 32 0
+#terrain 32 33554496
 #landname 33 "Ihu Slope"
-#terrain 33 0
+#terrain 33 4194320
 #landname 34 "Gali Incoming"
-#terrain 34 0
+#terrain 34 4
 #landname 35 "Onu-Koro"
-#terrain 35 0
+#terrain 35 4096
 #landname 36 "Onu-Kini"
-#terrain 36 0
+#terrain 36 4096
 #landname 37 "Gali Landing"
-#terrain 37 0
+#terrain 37 33554437
 #landname 38 "Naho Bay"
-#terrain 38 0
+#terrain 38 4356
 #landname 39 "Ga-Kini"
-#terrain 39 0
-#landname 40 "Onu Waters"
-#terrain 40 0
-#landname 41 "Tiro Canyon"
-#terrain 41 0
-#landname 42 "Papa Nihu Reef"
-#terrain 42 0
-#landname 43 "Motara Desert"
-#terrain 43 0
-#landname 44 "Motara Drink"
-#terrain 44 0
-#landname 45 "Po-Kini"
-#terrain 45 0
+#terrain 39 261
+#landname 40 "Onu Ocean"
+#terrain 40 4
+#landname 41 "Onua Landing"
+#terrain 41 33558528
+#landname 42 "Tiro Canyon"
+#terrain 42 16781312
+#landname 43 "Papa Nihu Reef"
+#terrain 43 1286
+#landname 44 "Motara Desert"
+#terrain 44 64
+#landname 45 "Rahi Deep"
+#terrain 45 2054
 #landname 46 "Po-Koro"
-#terrain 46 0
+#terrain 46 64
 #landname 47 "Pohatu Landing"
-#terrain 47 0
-#landname 48 "Leva Edge"
+#terrain 47 33554432
+#landname 48 "Po-Kini"
 #terrain 48 0
-#landname 49 "Deep Blue"
-#terrain 49 0
-#landname 50 "Leva Bay"
-#terrain 50 0
-#landname 51 "Pohatu Float"
+#landname 49 "Leva Point"
+#terrain 49 16777472
+#landname 50 "Papa Nihu Waters"
+#terrain 50 33556486
+#landname 51 "Leva Bay"
 #terrain 51 0
-#landname 52 "Leva's Incoming"
+#landname 52 "Pohatu Incoming"
 #terrain 52 0
+#landname 53 "Sea of Duty"
+#terrain 53 3078
 
 -- Province neighbours
 #neighbour 1 3
@@ -143,6 +145,7 @@
 #neighbour 9 11
 #neighbour 10 11
 #neighbour 10 14
+#neighbour 10 12
 #neighbour 11 14
 #neighbour 11 16
 #neighbour 11 13
@@ -160,17 +163,21 @@
 #neighbour 15 24
 #neighbour 16 18
 #neighbour 16 21
+#neighbourspec 16 21 1
 #neighbour 17 18
 #neighbour 17 22
 #neighbour 17 25
 #neighbour 17 30
 #neighbour 18 22
+#neighbourspec 18 22 2
 #neighbour 19 20
 #neighbour 19 21
+#neighbourspec 19 21 1
 #neighbour 19 23
 #neighbour 20 23
 #neighbour 20 24
 #neighbour 21 23
+#neighbourspec 21 23 1
 #neighbour 22 25
 #neighbour 22 27
 #neighbour 23 24
@@ -183,57 +190,59 @@
 #neighbour 26 29
 #neighbour 26 34
 #neighbour 27 28
+#neighbourspec 27 28 1
 #neighbour 27 32
 #neighbour 28 33
+#neighbourspec 28 33 1
 #neighbour 28 36
+#neighbourspec 28 36 1
 #neighbour 29 31
 #neighbour 29 37
 #neighbour 30 32
 #neighbour 30 40
 #neighbour 31 33
-#neighbour 31 37
+#neighbourspec 31 33 2
 #neighbour 31 38
 #neighbour 32 35
-#neighbour 32 40
 #neighbour 33 38
 #neighbour 33 36
+#neighbourspec 33 36 1
 #neighbour 34 37
 #neighbour 34 39
-#neighbour 34 44
+#neighbour 34 45
 #neighbour 35 36
 #neighbour 35 41
-#neighbour 35 42
+#neighbour 36 42
 #neighbour 36 41
-#neighbour 36 38
 #neighbour 37 38
 #neighbour 37 39
 #neighbour 38 39
+#neighbour 38 42
+#neighbour 39 45
 #neighbour 39 44
-#neighbour 39 43
-#neighbour 40 42
-#neighbour 40 49
+#neighbour 40 43
+#neighbour 40 50
+#neighbour 41 43
 #neighbour 41 42
-#neighbour 41 46
-#neighbour 41 45
-#neighbour 42 49
-#neighbour 42 51
-#neighbour 43 44
-#neighbour 43 47
-#neighbour 43 48
-#neighbour 43 45
+#neighbour 42 46
+#neighbour 42 47
+#neighbour 43 50
 #neighbour 44 48
-#neighbour 44 52
-#neighbour 45 46
-#neighbour 45 47
+#neighbour 44 49
+#neighbour 44 46
+#neighbour 45 53
+#neighbour 45 49
+#neighbour 46 48
 #neighbour 46 47
-#neighbour 46 50
-#neighbour 46 51
-#neighbour 47 50
-#neighbour 48 50
-#neighbour 48 52
+#neighbour 47 52
+#neighbour 47 51
+#neighbour 47 48
+#neighbour 48 51
 #neighbour 49 51
-#neighbour 50 51
+#neighbour 49 53
 #neighbour 50 52
+#neighbour 51 52
+#neighbour 51 53
 
 -- Special per province commands
 
