@@ -1,8 +1,8 @@
-DOMINIONS 4: TEMPLATE MAP
+DOMINIONS 4: CAVES OF QUD WORLD MAP
 
-Description: Dominions 4 map created using the Caves of Qud world map. Suitable for 0-0 players, where 0 can be a water nation.
+Description: Dominions 4 map created using the Caves of Qud world map. Suitable for 6-8 players, where 0 can be a water nation.
 
-Size: 0 land + 0 sea
+Size: 66 land + 2 sea
 
 Author(s): Narroe (Oa) [tinkerersblog.net]
 
