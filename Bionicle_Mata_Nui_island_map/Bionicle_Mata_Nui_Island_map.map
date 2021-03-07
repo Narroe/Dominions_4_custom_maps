@@ -21,7 +21,7 @@
 #landname 4 "Sea of Destiny"
 #terrain 4 33556486
 #landname 5 "Kumu South"
-#terrain 5 128
+#terrain 5 136
 #landname 6 "Kanae Bay"
 #terrain 6 4
 #landname 7 "Sea of Unity"
@@ -33,23 +33,23 @@
 #landname 10 "Kanae Islet"
 #terrain 10 1
 #landname 11 "Lake Kanae"
-#terrain 11 8
+#terrain 11 4
 #landname 12 "Jankeep"
 #terrain 12 0
 #landname 13 "Fau Swamp"
-#terrain 13 1056
+#terrain 13 1064
 #landname 14 "Pala Plain"
 #terrain 14 256
 #landname 15 "Rahi's Play"
 #terrain 15 6
 #landname 16 "Le-Kini"
-#terrain 16 32
+#terrain 16 40
 #landname 17 "Matoran's Swim"
 #terrain 17 6
 #landname 18 "Kini-Nui"
-#terrain 18 32
+#terrain 18 40
 #landname 19 "Lake Pala"
-#terrain 19 1288
+#terrain 19 1284
 #landname 20 "Ta-Kini"
 #terrain 20 0
 #landname 21 "Mangai Volcano"
@@ -77,7 +77,7 @@
 #landname 32 "Kopaka Landing"
 #terrain 32 33554496
 #landname 33 "Ihu Slope"
-#terrain 33 4194320
+#terrain 33 4194328
 #landname 34 "Gali Incoming"
 #terrain 34 4
 #landname 35 "Onu-Koro"
