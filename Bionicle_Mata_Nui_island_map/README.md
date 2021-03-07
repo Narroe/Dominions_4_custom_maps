@@ -2,7 +2,7 @@ DOMINIONS 4: BIONICLE MATA NUI ISLAND MAP
 
 Description: Enter the world of the Bionicle! Bionicle Mata Nui Island map. Suitable for 4-6 players, where 3 can be water nations.
 
-Size: 35 land + 18 sea
+Size: 33 land + 20 sea
 
 Map image source: https://bionicle.fandom.com/wiki/Mata_Nui_(Location)
 
