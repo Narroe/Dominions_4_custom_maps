@@ -6,7 +6,7 @@
 -- 
 
 -- Title and image file
-#dom2title Testing the waters.
+#dom2title Testing the waters (template map)
 #imagefile template_map_1.tga
 #domversion 350
 #maptextcol 1.00 1.00 1.00 1.00
@@ -38,21 +38,21 @@
 #landname 12 "Devil's Pond"
 #terrain 12 33555460
 #landname 13 "Old Giant Woods"
-#terrain 13 128
+#terrain 13 136
 #landname 14 "Desert of Visions"
 #terrain 14 577
 #landname 15 "The Womb"
-#terrain 15 4198400
+#terrain 15 4198408
 #landname 16 "Oune"
-#terrain 16 33555456
+#terrain 16 33555464
 #landname 17 "Sea of Silence"
 #terrain 17 33556484
 #landname 18 "Kratas"
-#terrain 18 37748737
+#terrain 18 37748745
 #landname 19 "Karion"
 #terrain 19 1025
 #landname 20 "Vongar"
-#terrain 20 33555457
+#terrain 20 33555465
 
 -- Province neighbours
 #neighbour 1 4

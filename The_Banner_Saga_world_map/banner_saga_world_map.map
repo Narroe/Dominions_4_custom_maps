@@ -34,13 +34,13 @@
 #landname 10 "Voe"
 #terrain 10 4097
 #landname 11 "Asar"
-#terrain 11 33554688
+#terrain 11 33554696
 #landname 12 "Plains of Slaughter"
 #terrain 12 16778496
 #landname 13 "Wyrm's Tail"
 #terrain 13 0
 #landname 14 "Ormsfjord"
-#terrain 14 256
+#terrain 14 264
 #landname 15 "Lonely waters"
 #terrain 15 6150
 #landname 16 "Mire Fallows"
@@ -54,7 +54,7 @@
 #landname 20 "Downs Crossing"
 #terrain 20 0
 #landname 21 "Fiskivik"
-#terrain 21 33555456
+#terrain 21 33555464
 #landname 22 "Brackish Sea"
 #terrain 22 2118
 #landname 23 "Fiska Bay"
@@ -88,21 +88,21 @@
 #landname 37 "Ironpeat Wash"
 #terrain 37 288
 #landname 38 "Etiltorp"
-#terrain 38 1024
+#terrain 38 1032
 #landname 39 "The Armsbeck"
 #terrain 39 264
 #landname 40 "Sweinn Isle"
 #terrain 40 1088
 #landname 41 "Lundar"
-#terrain 41 128
+#terrain 41 136
 #landname 42 "Bolunskr"
 #terrain 42 33554696
 #landname 43 "Stromlund"
-#terrain 43 0
+#terrain 43 8
 #landname 44 "Gaular"
 #terrain 44 256
 #landname 45 "Grundar"
-#terrain 45 33554688
+#terrain 45 33554696
 #landname 46 "Manaharr Waters"
 #terrain 46 2564
 #landname 47 "Aros"
@@ -114,15 +114,15 @@
 #landname 50 "Deeplunn"
 #terrain 50 128
 #landname 51 "Sweinnsfeed"
-#terrain 51 64
+#terrain 51 66
 #landname 52 "Akur"
 #terrain 52 33554696
 #landname 53 "Eastway Road"
-#terrain 53 0
+#terrain 53 8
 #landname 54 "Ormsdalr"
 #terrain 54 8
 #landname 55 "Deepmot"
-#terrain 55 8
+#terrain 55 4
 #landname 56 "The Godsreach Hills"
 #terrain 56 20971536
 #landname 57 "Gardstad"
@@ -134,7 +134,7 @@
 #landname 60 "Eastway Brush"
 #terrain 60 128
 #landname 61 "Boersgard"
-#terrain 61 33554432
+#terrain 61 33554440
 #landname 62 "Whithagr"
 #terrain 62 256
 #landname 63 "Bindal"
@@ -170,7 +170,7 @@
 #landname 78 "Seahorn"
 #terrain 78 1
 #landname 79 "Sigrholm"
-#terrain 79 8
+#terrain 79 9
 #landname 80 "Spirit Water"
 #terrain 80 16780292
 #landname 81 "Karlshus"
@@ -178,7 +178,7 @@
 #landname 82 "Backsfjord"
 #terrain 82 8
 #landname 83 "Strand"
-#terrain 83 33554440
+#terrain 83 33554432
 #landname 84 "Grenilund"
 #terrain 84 128
 #landname 85 "Skelmotskrolr Spindle"
@@ -292,7 +292,7 @@
 #landname 139 "Flat Plain"
 #terrain 139 0
 #landname 140 "Mornforth Taing"
-#terrain 140 16778240
+#terrain 140 16778248
 #landname 141 "Weaver's Eye"
 #terrain 141 260
 #landname 142 "The Anvil"
@@ -342,6 +342,7 @@
 #neighbour 1 15
 #neighbour 1 4
 #neighbour 1 14
+#neighbour 1 17
 #neighbour 2 7
 #neighbour 2 22
 #neighbour 3 18
@@ -353,6 +354,7 @@
 #neighbourspec 3 5 2
 #neighbour 4 12
 #neighbour 4 14
+#neighbour 4 23
 #neighbour 5 18
 #neighbour 5 11
 #neighbour 5 26
@@ -604,6 +606,7 @@
 #neighbour 95 110
 #neighbour 96 131
 #neighbour 96 105
+#neighbour 96 123
 #neighbour 97 99
 #neighbour 97 103
 #neighbour 97 102
@@ -718,7 +721,6 @@
 #neighbour 136 140
 #neighbour 136 139
 #neighbour 136 141
-#neighbourspec 136 141 2
 #neighbour 137 149
 #neighbour 137 144
 #neighbour 137 150
@@ -729,6 +731,8 @@
 #neighbour 139 140
 #neighbourspec 139 140 2
 #neighbour 139 141
+#neighbour 140 146
+#neighbour 140 151
 #neighbour 141 148
 #neighbour 141 146
 #neighbour 141 142
