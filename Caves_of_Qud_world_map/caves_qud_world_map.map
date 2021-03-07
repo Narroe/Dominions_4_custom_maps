@@ -1,0 +1,334 @@
+-- 
+-- Map file for Dominions 4
+-- 
+-- Illwinter Game Design
+-- www.illwinter.com
+-- 
+
+-- Title and image file
+#dom2title Caves of Qud world map
+#imagefile caves_of_qud_world_map.tga
+#domversion 350
+#description "Enter the Caves of Qud. Your thirst is mine, my water is yours. Suitable for 6-8 players and 0 aquatic kingdoms."
+
+-- Province names/terrains
+#landname 1 "The Blue Marsh"
+#terrain 1 32
+#landname 2 "Joppa"
+#terrain 2 256
+#landname 3 "Twisted Mountains"
+#terrain 3 4198552
+#landname 4 "The Cavern Realm"
+#terrain 4 4198528
+#landname 5 "World's Edge Mountains"
+#terrain 5 4672
+#landname 6 "Caverns of Gold"
+#terrain 6 37752960
+#landname 7 "Rust Wells"
+#terrain 7 4198400
+#landname 8 "The Chambers Underneath"
+#terrain 8 4224
+#landname 9 "Darkwoods"
+#terrain 9 33554560
+#landname 10 "Deathlands Porch"
+#terrain 10 4288
+#landname 11 "The Labyrinth of Woe"
+#terrain 11 5696
+#landname 12 "Salt Dunes South"
+#terrain 12 33554498
+#landname 13 "Underdark Plaza"
+#terrain 13 4672
+#landname 14 "Kyakukya"
+#terrain 14 33554824
+#landname 15 "Red Rock"
+#terrain 15 4199936
+#landname 16 "Two River"
+#terrain 16 136
+#landname 17 "City of Twilight"
+#terrain 17 4672
+#landname 18 "Land of the Hidden Houses"
+#terrain 18 5312
+#landname 19 "Rainbow Woods"
+#terrain 19 5544
+#landname 20 "Rusted Archway"
+#terrain 20 4199936
+#landname 21 "Gehennom"
+#terrain 21 4288
+#landname 22 "Lomark"
+#terrain 22 128
+#landname 23 "Lost Deep"
+#terrain 23 5696
+#landname 24 "Salt Dunes"
+#terrain 24 66
+#landname 25 "Grit Gate"
+#terrain 25 4744
+#landname 26 "Lake Svy"
+#terrain 26 1028
+#landname 27 "Ogh Woods"
+#terrain 27 33554560
+#landname 28 "Smotherdark Ruins"
+#terrain 28 5312
+#landname 29 "Svyside Brush"
+#terrain 29 136
+#landname 30 "Blackland"
+#terrain 30 4160
+#landname 31 "Salt on Hill"
+#terrain 31 37748800
+#landname 32 "Solam"
+#terrain 32 257
+#landname 33 "Bey Lah"
+#terrain 33 4194560
+#landname 34 "Cedarwood Forest"
+#terrain 34 1152
+#landname 35 "Caves of Concrete"
+#terrain 35 4672
+#landname 36 "Yonth Southbank"
+#terrain 36 136
+#landname 37 "Golgotha"
+#terrain 37 4224
+#landname 38 "Ruins by Golgatha"
+#terrain 38 5256
+#landname 39 "City of the Damned"
+#terrain 39 4672
+#landname 40 "Opal's Darkwaters"
+#terrain 40 5
+#landname 41 "Forest of Gun"
+#terrain 41 33554569
+#landname 42 "Salt Dunes North"
+#terrain 42 33554498
+#landname 43 "Silver Grove"
+#terrain 43 4194441
+#landname 44 "Thorn Woods"
+#terrain 44 33554569
+#landname 45 "Tirannea"
+#terrain 45 4194560
+#landname 46 "Sweet Field"
+#terrain 46 33554688
+#landname 47 "Moss Woods"
+#terrain 47 136
+#landname 48 "The Salty Hills"
+#terrain 48 4194368
+#landname 49 "Saran Forest"
+#terrain 49 33554560
+#landname 50 "White Peaks"
+#terrain 50 16
+#landname 51 "Fas Dir"
+#terrain 51 9
+#landname 52 "Lost Towers"
+#terrain 52 4672
+#landname 53 "Opal's Crossing"
+#terrain 53 4194441
+#landname 54 "Willow-by-river"
+#terrain 54 4194441
+#landname 55 "Mun"
+#terrain 55 5633
+#landname 56 "Endless Caverns"
+#terrain 56 5120
+#landname 57 "Betane"
+#terrain 57 33554440
+#landname 58 "Six Day Stilt"
+#terrain 58 5698
+#landname 59 "Wise Spring Grove"
+#terrain 59 136
+#landname 60 "Bethesda Susa"
+#terrain 60 4199936
+#landname 61 "Stumbledown Passage"
+#terrain 61 4096
+#landname 62 "Asphalt Mines"
+#terrain 62 4200016
+#landname 63 "The Mighty Pillars"
+#terrain 63 4194304
+#landname 64 "Undermountain"
+#terrain 64 4097
+#landname 65 "Opal's Source Mountain"
+#terrain 65 4198424
+#landname 66 "Yellow Caves"
+#terrain 66 4198424
+#landname 67 "Iron Caverns"
+#terrain 67 4198424
+#landname 68 "Yonth Caverns"
+#terrain 68 4105
+
+-- Province neighbours
+#neighbour 1 15
+#neighbour 1 12
+#neighbour 1 2
+#neighbour 2 7
+#neighbour 2 15
+#neighbour 3 7
+#neighbour 3 4
+#neighbour 3 16
+#neighbour 3 14
+#neighbour 4 14
+#neighbour 4 6
+#neighbour 5 13
+#neighbour 5 17
+#neighbour 6 18
+#neighbour 6 8
+#neighbour 7 20
+#neighbour 7 16
+#neighbour 8 18
+#neighbour 8 9
+#neighbour 8 19
+#neighbour 9 10
+#neighbour 9 19
+#neighbour 10 22
+#neighbour 10 21
+#neighbour 10 11
+#neighbour 10 19
+#neighbour 11 21
+#neighbour 11 13
+#neighbour 11 23
+#neighbour 12 15
+#neighbour 12 24
+#neighbour 13 17
+#neighbour 13 23
+#neighbour 14 16
+#neighbourspec 14 16 2
+#neighbour 14 26
+#neighbour 14 18
+#neighbour 15 20
+#neighbour 15 24
+#neighbour 16 20
+#neighbour 16 25
+#neighbourspec 16 25 2
+#neighbour 17 23
+#neighbour 17 35
+#neighbour 18 26
+#neighbour 18 29
+#neighbour 18 28
+#neighbour 19 28
+#neighbour 19 27
+#neighbour 19 22
+#neighbour 20 31
+#neighbour 20 32
+#neighbour 21 23
+#neighbour 21 30
+#neighbour 21 34
+#neighbour 21 22
+#neighbour 22 27
+#neighbour 22 34
+#neighbour 23 30
+#neighbour 23 35
+#neighbour 24 31
+#neighbour 24 42
+#neighbour 25 26
+#neighbour 25 37
+#neighbour 25 33
+#neighbour 26 29
+#neighbour 26 38
+#neighbour 27 28
+#neighbour 27 36
+#neighbour 27 34
+#neighbour 28 29
+#neighbour 28 40
+#neighbour 28 41
+#neighbour 28 36
+#neighbour 28 49
+#neighbour 29 38
+#neighbourspec 29 38 2
+#neighbour 29 41
+#neighbour 30 39
+#neighbour 30 34
+#neighbour 31 48
+#neighbour 31 32
+#neighbour 31 42
+#neighbour 32 48
+#neighbour 32 33
+#neighbour 32 46
+#neighbour 33 37
+#neighbour 33 45
+#neighbour 34 44
+#neighbour 34 36
+#neighbour 35 39
+#neighbour 35 52
+#neighbour 36 43
+#neighbourspec 36 43 2
+#neighbour 36 40
+#neighbour 37 38
+#neighbour 37 49
+#neighbour 37 45
+#neighbour 38 49
+#neighbour 38 47
+#neighbour 38 41
+#neighbourspec 38 41 2
+#neighbour 39 44
+#neighbour 39 55
+#neighbourspec 39 55 1
+#neighbour 40 41
+#neighbour 40 50
+#neighbour 41 51
+#neighbourspec 41 51 2
+#neighbour 41 47
+#neighbourspec 41 47 2
+#neighbour 41 50
+#neighbour 42 48
+#neighbour 42 58
+#neighbour 43 53
+#neighbourspec 43 53 1
+#neighbour 43 56
+#neighbour 43 54
+#neighbourspec 43 54 1
+#neighbour 44 54
+#neighbourspec 44 54 2
+#neighbour 45 46
+#neighbour 45 49
+#neighbour 45 63
+#neighbour 45 60
+#neighbour 46 48
+#neighbour 46 62
+#neighbour 46 63
+#neighbour 47 51
+#neighbourspec 47 51 2
+#neighbour 47 49
+#neighbour 47 59
+#neighbour 48 62
+#neighbour 48 58
+#neighbour 49 60
+#neighbour 49 59
+#neighbour 50 53
+#neighbour 50 57
+#neighbour 50 51
+#neighbour 50 65
+#neighbourspec 50 65 1
+#neighbour 51 57
+#neighbour 51 59
+#neighbourspec 51 59 2
+#neighbour 52 55
+#neighbourspec 52 55 1
+#neighbour 52 64
+#neighbourspec 52 64 1
+#neighbour 53 56
+#neighbour 53 65
+#neighbour 54 61
+#neighbourspec 54 61 2
+#neighbour 54 67
+#neighbourspec 54 67 1
+#neighbour 54 56
+#neighbour 55 68
+#neighbourspec 55 68 2
+#neighbour 55 61
+#neighbourspec 55 61 1
+#neighbour 56 67
+#neighbour 56 66
+#neighbour 57 65
+#neighbour 57 59
+#neighbourspec 57 59 2
+#neighbour 58 62
+#neighbour 59 60
+#neighbour 60 63
+#neighbour 61 68
+#neighbourspec 61 68 2
+#neighbour 61 67
+#neighbourspec 61 67 2
+#neighbour 62 63
+#neighbour 64 68
+#neighbourspec 64 68 2
+#neighbour 65 66
+#neighbourspec 65 66 2
+#neighbour 66 67
+#neighbourspec 66 67 1
+
+-- Special per province commands
+
+--
